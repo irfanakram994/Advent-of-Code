@@ -1,0 +1,1 @@
+infile = input("day12.txt")
